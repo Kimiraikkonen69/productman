@@ -1,0 +1,303 @@
+html {
+    background: #eeeeee;
+    width: 1500px;
+    height: 2664px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header  {
+    margin-top: 50px;
+}
+header:nth-child(1) {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 150px;
+    color: #303030;
+}
+.menu {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.025px
+}
+.black {
+    font-family: 'Raleway', sans-serif;
+    font-size: 150px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.lorem {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+.slide {
+    margin-top: 105px;
+    margin-left: 150px;
+}
+.divid {
+    width: 715px;
+    height: 470px;
+    float: left;
+}
+.divid p {
+    text-align: right;
+    color: #303030;
+}
+.view {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+#vie {
+    color: #e10011;
+    margin-top: 18px;
+}
+.im img {
+    margin-left: 100px;
+    cursor: pointer;
+
+}
+#recent {
+    margin-left: 575px;
+    cursor: pointer;
+}
+#recent:hover {
+    text-shadow: 2px 4px 8px rgba(154, 150, 150, 1);
+}
+#featured {
+    margin-left: 50px;
+    cursor: pointer;
+}
+#featured:hover {
+    text-shadow: 2px 4px 8px rgba(154, 150, 150, 1);
+}
+#imgmenu {
+    margin-left: 40px;
+    cursor: pointer;
+}
+#imgmenu:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#ellips {
+    margin-top: 70px;
+    margin-left: 560px;
+}
+#main {
+    position: relative;
+    width: 1198px;
+    height: 1193px;
+    background: #ffffff;
+    margin-left: 151px;
+    margin-top: 103px;
+    border-radius: 4px;
+}
+h3  {
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 383px;
+    margin-top:  115px;
+    color: #303030;
+}
+#underline {
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 493px;
+
+}
+#main p {
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 199px;
+    padding-left: 320px;
+    padding-right: 320px;
+}
+#rectangle {
+    position: absolute;
+    margin-top: 312px;
+    margin-left: 72px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#rectangle:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#shoes {
+    position: absolute;
+    margin-top: 734px;
+    margin-left: 436px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#shoes:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#beats {
+    position: absolute;
+    margin-top: 312px;
+    margin-left: 799px;
+    cursor: pointer;
+}
+#beats:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#tumblr {
+    position: absolute;
+    margin-left: 799px;
+    margin-top: 734px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#tumblr:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#main section {
+    position: absolute;
+    display: inline-block;
+    width: 329px;
+    height: 387px;
+    background: #e10011;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 734px;
+    margin-left: 72px;
+    margin-bottom: 72px;
+    border-radius: 4px;
+    margin-right: 798px;
+}
+section span {
+    display: inline-block;
+    margin-top: 265px;
+    margin-left: 37px;
+}
+section img {
+    margin-left: 37px;
+    margin-top: 10px;
+    margin-bottom: 42px;
+}
+.news {
+    width: 1500px;
+}
+.news h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    color: #303030;
+    margin-top: 100px;
+}
+.news span {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    display: inline-block;
+    padding-left: 475px;
+    padding-right: 475px;
+    color: #303030;
+    margin-top: 27px;
+}
+.user {
+    border: none;
+    outline: none;
+    background: #ffffff;
+    margin-left: 399px;
+    margin-top: 40px;
+    width: 495px;
+    height: 70px;
+    border-radius: 50px 0 0 50px;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 600;
+    color: #979797;
+    padding-left: 32px;
+    float: left;
+    -webkit-transition-duration: 0.4s;
+    trasition-duration: 0.4s;
+}
+.user:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button {
+    width: 210px;
+    height: 70px;
+    background: #e10011;
+    border: none;
+    outline: none;
+    color: white;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 0 50px 50px 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin-top: 40px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    trasition-duration: 0.4s;
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#face {
+    margin-top: 112px;
+    margin-left: 580px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#face:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#twit {
+    margin-left: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#twit:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#youtube {
+    margin-left: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#youtube:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#mail {
+    margin-left: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#mail:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+footer {
+    width: 1500px;
+    margin-left: 505px;
+    margin-top: 65px;
+    margin-bottom: 32px;
+}
+footer span {
+    margin-bottom: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #aeaeae;
+}
+#your_company {
+    color: #303030;
+}
